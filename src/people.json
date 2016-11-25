@@ -1,0 +1,41 @@
+[{
+  "id": 1,
+  "name": "Christopher Fernandez",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Carol Marshall",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Lisa Hunt",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Joe Grant",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Deborah Robertson",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Roger Parker",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Timothy Oliver",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Jeremy Gonzales",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Rebecca Bishop",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Ryan Bowman",
+  "gender": "Male"
+}]

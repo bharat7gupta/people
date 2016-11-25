@@ -1,0 +1,27 @@
+{
+  "name": "people",
+  "version": "1.0.0",
+  "description": "Get random people names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharat7gupta/people.git"
+  },
+  "keywords": [
+    "random",
+    "people",
+    "names"
+  ],
+  "author": "Bharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharat7gupta/people/issues"
+  },
+  "homepage": "https://github.com/bharat7gupta/people#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
