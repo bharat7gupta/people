@@ -25,7 +25,7 @@ describe("people", function() {
             var person = people.random();
             expect(people.all.filter(function(item){
                 return item.id === person.id;
-            }).length === 2).to.be.true;
+            }).length === 1).to.be.true;
         });
     });
 });
